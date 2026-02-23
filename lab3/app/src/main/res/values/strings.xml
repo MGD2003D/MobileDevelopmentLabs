@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="nav_feed">Лента</string>
+    <string name="nav_profile">Профиль</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="feed_refresh">Обновить</string>
+    <string name="profile_hint_name">Имя</string>
+    <string name="profile_hint_status">Статус</string>
+    <string name="profile_label_email">Email</string>
+    <string name="profile_email">ivan.ivanov@example.com</string>
+    <string name="profile_label_phone">Телефон</string>
+    <string name="profile_phone">+7 (999) 123-45-67</string>
+    <string name="profile_avatar_desc">Аватар пользователя</string>
+    <string name="settings_dark_theme">Тёмная тема</string>
+</resources>

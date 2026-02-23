@@ -1,0 +1,4 @@
+-keep class androidx.navigation.** { *; }
+-keep class androidx.lifecycle.** { *; }
+-keep class androidx.room.** { *; }
+-keep class com.example.messenger.data.model.** { *; }
